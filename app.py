@@ -254,6 +254,6 @@ elif selected == "Analytics":
 st.markdown("---")
 st.markdown("""
 <div style='text-align: center; color: #666;'>
-    <p>Created with ❤️ using Streamlit</p>
+    <p>Created by Drago using Streamlit</p>
 </div>
 """, unsafe_allow_html=True)
