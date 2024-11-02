@@ -21,7 +21,7 @@ A modern, user-friendly event processing application built with Python and Strea
 
 ### Prerequisites
 
-- Python 3.8 or higher
+- Python 3.8 or higher (Recommended: 3.12)
 - pip (Python package installer)
 
 ### Installation
