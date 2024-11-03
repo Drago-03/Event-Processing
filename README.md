@@ -89,4 +89,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
+Email : [Email](mantejarora@gmail.com)
 Project Link: [https://github.com/Drago-03/Event-Processing](https://github.com/Drago-03/Event-Processing)
